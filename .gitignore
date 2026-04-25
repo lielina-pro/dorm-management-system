@@ -1,0 +1,21 @@
+# Database credentials
+config/db.php
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# PHP logs and cache
+*.log
+*.cache
+
+# Composer (if used later)
+/vendor/
+
+# Uploaded files
+uploads/
